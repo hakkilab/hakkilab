@@ -16,11 +16,19 @@ Here are some ideas to get you started:
 -->
 
 Here are the locations for my various organizations and repositories:
+
 [Resume](https://github.com/hakkilab-resume)
+
 [School work](https://github.com/hakkilab-school)
+
 [Club projects](https://github.com/hakkilab-clubs)
+
 [Personal projects](https://github.com/hakkilab-personalprojects)
+
 [Open source projects](https://github.com/hakkilab-opensource)
+
 [Coding practice](https://github.com/hakkilab-codingpractice)
+
 [Online course work](https://github.com/hakkilab-moocs)
+
 [Random little projects](https://github.com/hakkilab-random)
