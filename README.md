@@ -15,20 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here are the locations for my various organizations and repositories:
+Welcome to my GitHub! Here are some pages that may be of interest
 
-[Resume](https://github.com/hakkilab-resume)
+About Me:
 
-[School work](https://github.com/hakkilab-school)
+[Resume](https://github.com/hakkilab/resume/blob/main/Blake%20Hakkila%20-%20Resume.pdf)
 
-[Club projects](https://github.com/hakkilab-clubs)
+Projects:
 
-[Personal projects](https://github.com/hakkilab-personalprojects)
+[CoffeePod](https://github.com/hakkilab/CoffeePod)
 
-[Open source projects](https://github.com/hakkilab-opensource)
-
-[Coding practice](https://github.com/hakkilab-codingpractice)
-
-[Online course work](https://github.com/hakkilab-moocs)
-
-[Random little projects](https://github.com/hakkilab-random)
+[Fitness Buddy](https://github.com/hakkilab/FitnessBuddy)
