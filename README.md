@@ -26,3 +26,9 @@ Projects:
 [CoffeePod](https://github.com/hakkilab/CoffeePod)
 
 [Fitness Buddy](https://github.com/hakkilab/FitnessBuddy)
+
+Writeups:
+
+[NSA Codebreaker Challenge 2021 Writeups](https://github.com/hakkilab/NSACC2021)
+
+[NSA Codebreaker Challenge 2022 Writeups](https://github.com/hakkilab/NSACC2022)
